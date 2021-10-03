@@ -1,0 +1,13 @@
+.inputs{
+    border: 0px 0px 1px 0px;
+}
+.fa-trash{
+    color: rgb(110, 6, 6);
+}
+.fa-edit{
+    color: green;
+}
+/* .thead-dark{
+    background-color: black;
+    color: white;
+} */
